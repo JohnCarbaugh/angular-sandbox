@@ -1,0 +1,14 @@
+@import "../../../styles/variables.scss";
+
+:host {
+    display: flex;
+    min-height: 80px;
+    height: 80px;
+    max-height: 80px;
+
+    flex: 1 1 0;
+    margin: 0px;
+    padding: 0px;
+    background-color: $primary;
+    z-index: 100;
+}
