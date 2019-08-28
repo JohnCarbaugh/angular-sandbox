@@ -1,0 +1,8 @@
+@import "../../../styles/variables.scss";
+
+:host {
+    margin: 0px;
+    padding: 0px;
+    width: 375px;
+    background-color: $secondary;
+}
